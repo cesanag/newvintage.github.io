@@ -50,7 +50,7 @@ http://stackoverflow.com/a/34696029/383904
 }
 
 .CSSgal .prevNext a {
-	background: #fff;
+	background: black;
 	position: absolute;
 	width:       60px;
 	height:      60px;
@@ -202,9 +202,9 @@ html {
 .img-container {
     display:flex;
 }
-.img{
+/* .img{
     width:100vw;
-}
+} */
 
 
   .body_0000{
